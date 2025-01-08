@@ -1,0 +1,4 @@
+library(reticulate)
+np <- import("numpy")
+
+np$savez("textile_data.npz", trainImg=trainImg, icImgs=icImgs, ocImgs=ocImgs)

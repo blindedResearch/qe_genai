@@ -1,0 +1,2 @@
+# qe_genai
+ A repository for our working paper titled: "Adapting OpenAI's CLIP Model for Few-Shot Image Inspection in Manufacturing Quality Control: An Expository Case Study with Multiple Application Examples."

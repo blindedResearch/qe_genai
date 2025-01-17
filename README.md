@@ -53,10 +53,10 @@ Our work investigates the use of few-shot learning with the CLIP model for image
    - In the Colab interface, click the File menu located at the top left corner of the screen.
    - From the dropdown options in the File menu, choose Upload notebook.
    - In the dialog box that appears, navigate to the GitHub tab.
-   - Paste the repository URL: https://github.com/blindedResearch into the input field.
+   - Paste the repository URL: *https://github.com/blindedResearch* into the input field.
    - Press Enter or click the Search button to locate the notebooks in the repository.
-   - From the list of repositories that appears, locate and select blindedResearch/qe_genai.
-   - In the "Path" section, locate the notebook file titled notebook/image_inspection_with_clip.ipynb.
+   - From the list of repositories that appears, locate and select *blindedResearch/qe_genai*.
+   - In the "Path" section, locate the notebook file titled *notebook/image_inspection_with_clip.ipynb*.
    - Click on the notebook file to load it into Google Colab.
    - after the notebook loads, begin editing, running, and interacting with it as needed in Google Colab.    
 
